@@ -11,7 +11,7 @@ const Contact = () => {
           unoptimized
           quality={100}
           alt="contact"
-          src="/img/contact.png"
+          src={process.env.PUBLIC_URL + "/img/contact.png"}
           className="hidden md:block w-1/2 rounded-xl object-cover"
         />
 

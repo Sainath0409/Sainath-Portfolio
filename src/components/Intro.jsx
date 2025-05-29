@@ -21,7 +21,7 @@ const Intro = () => {
       <div className="py-16 lg:py-48 flex flex-col-reverse lg:flex-row justify-around gap-10 lg:gap-0">
         <div className="flex flex-col gap-4 md:gap-6 text-left lg:w-1/2 2xl:w-1/3 mx-4 md:mx-6 xl:mx-0">
           <div className="flex items-center gap-1">
-            <img className="h-8" src="/img/waving-hand.gif" alt="waving" />
+            <img className="h-8" src={process.env.PUBLIC_URL + "/img/waving-hand.gif"} alt="waving" />
 
             <p className="text-lg md:text-xl mt-2 md:mt-1.5 dark:text-white">
               Hey
