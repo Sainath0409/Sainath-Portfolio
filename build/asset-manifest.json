@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Sainath-Portfolio/static/css/main.ebda9b02.css",
+    "main.js": "/Sainath-Portfolio/static/js/main.b944ffaf.js",
+    "static/js/453.0c11d810.chunk.js": "/Sainath-Portfolio/static/js/453.0c11d810.chunk.js",
+    "static/media/s1.jpg": "/Sainath-Portfolio/static/media/s1.61394ce4540c8a43b0ac.jpg",
+    "static/media/s3.jpg": "/Sainath-Portfolio/static/media/s3.be5ed6730d16d2c48dd7.jpg",
+    "index.html": "/Sainath-Portfolio/index.html",
+    "main.ebda9b02.css.map": "/Sainath-Portfolio/static/css/main.ebda9b02.css.map",
+    "main.b944ffaf.js.map": "/Sainath-Portfolio/static/js/main.b944ffaf.js.map",
+    "453.0c11d810.chunk.js.map": "/Sainath-Portfolio/static/js/453.0c11d810.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebda9b02.css",
+    "static/js/main.b944ffaf.js"
+  ]
+}
