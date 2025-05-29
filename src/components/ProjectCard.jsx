@@ -30,7 +30,7 @@ const ProjectCard = ({ data }) => {
 					width={1000}
 					height={1000}
 					className="max-w-full h-48 max-h-full object-cover object-top rounded-lg"
-					src={data?.image}
+					src={process.env.PUBLIC_URL + data?.image}
 				/>
 				{(data?.links.visit.trim() ||
 					data?.links.code.trim() ||

@@ -152,7 +152,7 @@ export const data = {
       details:
         "The solution significantly improved the discharge experience for patients and their families while increasing operational efficiency for the hospital.",
       category: "Client",
-      image: "C:\Users\sainath\Documents\portfolio_git\Sainath-Portfolio\public\img\RCM_p1.jpg",
+      image: "/img/RCM_p1.jpg",
       links: {
         code: "",
         video: "",
