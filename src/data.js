@@ -274,6 +274,34 @@ export const data = {
           "https://electronics.howstuffworks.com/gadgets/other-gadgets/calculator.htm",
       },
     },
+    {
+      name: "Stop Watch",
+      techstack: "HtML 5, CSS 3,JavaScript",
+      details:
+        "A stopwatch is a handheld timepiece designed to measure the amount of time that elapses between its activation and deactivation.",
+      category: "Personal",
+      image: "/img/stopwatch_c4.png",
+      links: {
+        code: "https://github.com/Sainath0409/CODSOFT-Lavel-02/tree/main/Stop%20Watch",
+        video: "",
+        visit:
+          "https://en.wikipedia.org/wiki/Stopwatch",
+      },
+    },
+    {
+      name: "Tic-Tac-Toe Game",
+      techstack: "HtML 5, CSS 3,JavaScript",
+      details:
+        "Tic-tac-toe is a game in which two players take turns marking the spaces in a 3×3 grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins.",
+      category: "Personal",
+      image: "/img/tic_game_c5.png",
+      links: {
+        code: "https://github.com/Sainath0409/CODSOFT-Lavel-02/tree/main/Tic-Tac-Toe",
+        video: "",
+        visit:
+          "https://en.wikipedia.org/wiki/Tic-tac-toe",
+      },
+    },
   ],
   educations: [
     {
