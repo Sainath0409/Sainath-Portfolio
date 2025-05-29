@@ -40,7 +40,7 @@ const About = () => {
             </p>
             <div className="flex items-center gap-4 md:mt-4">
               <a
-                href="/ASainathPatroResume.pdf"
+                 href={process.env.PUBLIC_URL + "/ASainathPatroResume.pdf"}
                 download="Sainath-Patro-Resume.pdf"
                 className="text-sm md:text-base bg-[#DC143C] dark:bg-[#DC143C] text-white font-semibold w-fit rounded-md py-2 px-6 hover:shadow-xl transition-shadow"
               >
